@@ -1,0 +1,1 @@
+module.exports = () => process.env.MY_CUSTOM_PACKAGE_ENV_VAR;
